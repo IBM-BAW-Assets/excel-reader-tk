@@ -1,0 +1,141 @@
+{
+    "numsheets": 1,
+    "Sheets": [
+        {
+            "numrows": 5,
+            "name": "Sheet1",
+            "Rows": [
+                {
+                    "rownum": 0,
+                    "numcells": 4,
+                    "Cells": [
+                        {
+                            "colIndex": 0,
+                            "type": "string",
+                            "value": "Name"
+                        },
+                        {
+                            "colIndex": 1,
+                            "type": "string",
+                            "value": "Age"
+                        },
+                        {
+                            "colIndex": 2,
+                            "type": "string",
+                            "value": "Phone Number"
+                        },
+                        {
+                            "colIndex": 3,
+                            "type": "string",
+                            "value": "Email"
+                        }
+                    ]
+                },
+                {
+                    "rownum": 1,
+                    "numcells": 4,
+                    "Cells": [
+                        {
+                            "colIndex": 0,
+                            "type": "string",
+                            "value": "John"
+                        },
+                        {
+                            "colIndex": 1,
+                            "type": "integer",
+                            "value": "29"
+                        },
+                        {
+                            "colIndex": 2,
+                            "type": "string",
+                            "value": "081428128731"
+                        },
+                        {
+                            "colIndex": 3,
+                            "type": "string",
+                            "value": "john.doe@mail.com"
+                        }
+                    ]
+                },
+                {
+                    "rownum": 2,
+                    "numcells": 4,
+                    "Cells": [
+                        {
+                            "colIndex": 0,
+                            "type": "string",
+                            "value": "Steve"
+                        },
+                        {
+                            "colIndex": 1,
+                            "type": "integer",
+                            "value": "27"
+                        },
+                        {
+                            "colIndex": 2,
+                            "type": "string",
+                            "value": "08123671623"
+                        },
+                        {
+                            "colIndex": 3,
+                            "type": "string",
+                            "value": "steve.r@mail.com"
+                        }
+                    ]
+                },
+                {
+                    "rownum": 3,
+                    "numcells": 4,
+                    "Cells": [
+                        {
+                            "colIndex": 0,
+                            "type": "string",
+                            "value": "Mark"
+                        },
+                        {
+                            "colIndex": 1,
+                            "type": "integer",
+                            "value": "32"
+                        },
+                        {
+                            "colIndex": 2,
+                            "type": "string",
+                            "value": "082731927631"
+                        },
+                        {
+                            "colIndex": 3,
+                            "type": "string",
+                            "value": "mark.d@mail.com"
+                        }
+                    ]
+                },
+                {
+                    "rownum": 4,
+                    "numcells": 4,
+                    "Cells": [
+                        {
+                            "colIndex": 0,
+                            "type": "string",
+                            "value": "Peter"
+                        },
+                        {
+                            "colIndex": 1,
+                            "type": "integer",
+                            "value": "44"
+                        },
+                        {
+                            "colIndex": 2,
+                            "type": "string",
+                            "value": "08273817231"
+                        },
+                        {
+                            "colIndex": 3,
+                            "type": "string",
+                            "value": "peter.m@mail.com"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
